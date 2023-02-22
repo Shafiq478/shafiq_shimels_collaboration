@@ -1,0 +1,22 @@
+body{
+    background-image: url(https://cdn.freecodecamp.org/testable-projects-fcc/images/survey-form-background.jpeg);
+    color: white;
+}
+#title{
+    text-align: center;
+}    
+#description{
+    text-align: center;
+    color: white;
+}
+#survey-form{
+    background-color: rgba(55, 10, 120, .7);
+    border-radius: 5px;
+    max-width: 1300px;
+    min-width: 350px;
+    width: 60%;
+    
+}    
+    
+    
+}
